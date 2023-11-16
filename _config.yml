@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: Szymon Górski's homepage
 description: Bookmark this to keep an eye on my project updates!
+language: ruby
+script:
+  - gem install jekyll bundler
+  - bundle install
+  - bundle exec rake test
+  - bundle exec jekyll build
+cache: bundler
