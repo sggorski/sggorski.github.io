@@ -10,5 +10,5 @@ When I'm not lost in lines of code, you'll find me indulging in my diverse set o
 
 ✈️ Beyond the digital horizon, I have a passion for exploration and discovery. Traveling allows me to broaden my perspectives and gain inspiration from the diverse cultures and landscapes that our world has to offer.
 
-Join me on this journey of continuous learning, exploration, and creation. I'm here not just to accomplish tasks but to gain more – more knowledge, more experiences, and more opportunities to make a positive impact in the vast landscape of technology. Let's code, play, and explore together! 🌐💻🎮
+Join me on this journey of continuous learning, exploration, and creation. I'm here not just to accomplish tasks but to gain more – more knowledge, more experiences, and more opportunities to make a positive impact in the vast landscape of technology. Let's code, play, and explore together! 💻🎮
 
